@@ -1,0 +1,14 @@
+# Environments
+.env
+
+# Directories
+Env
+Supplementary
+Signatures
+node_modules
+# VSCode
+.vscode/
+*.code-workspace
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
